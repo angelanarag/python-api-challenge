@@ -1,6 +1,13 @@
 # python-api-challenge
 Module 6 Challenge
 
+This repository has two folders:
+1) Output Data
+ - Contains the output csv files and images (.png)
+2) Starter Code
+ - Contains the Jupyter notebook
+ - WeatherPy.ipynb and VacationPy_ipnyb
+
 Module 6 Assignment for Python APIs
 
 Part 1: WeatherPy
